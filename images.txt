@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #moonrailgun/tianji
 #henrygd/beszel
-henrygd/beszel-agent
+#henrygd/beszel-agent
+--platform=linux/arm64 linux/arm64/v8 henrygd/beszel-agent
