@@ -9,4 +9,5 @@
 #henrygd/beszel-agent
 #--platform=linux/arm64/v8 henrygd/beszel-agent
 #java:8
-ghcr.io/heyputer/puter
+#ghcr.io/heyputer/puter
+cosincox/easyvoice:latest
