@@ -12,4 +12,4 @@
 #ghcr.io/heyputer/puter
 #cosincox/easyvoice:latest
 #diygod/rsshub:chromium-bundled
-ghcr.io/home-assistant/home-assistant:stable
+--platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
