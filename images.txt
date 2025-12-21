@@ -11,4 +11,5 @@
 #java:8
 #ghcr.io/heyputer/puter
 #cosincox/easyvoice:latest
-diygod/rsshub:chromium-bundled
+#diygod/rsshub:chromium-bundled
+ghcr.io/home-assistant/home-assistant:stable
