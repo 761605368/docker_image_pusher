@@ -13,4 +13,4 @@
 #cosincox/easyvoice:latest
 #diygod/rsshub:chromium-bundled
 #--platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
---platform=linux/arm64 docker.io/clash-verge-rev/clash-verge:latest
+--platform=linux/arm64 dreamacro/clash-dashboard-pro:latest
