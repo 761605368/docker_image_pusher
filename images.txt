@@ -12,4 +12,5 @@
 #ghcr.io/heyputer/puter
 #cosincox/easyvoice:latest
 #diygod/rsshub:chromium-bundled
---platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
+#--platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
+--platform=linux/arm64 ghcr.io/clash-verge-rev/clash-verge:latest
