@@ -13,4 +13,5 @@
 #cosincox/easyvoice:latest
 #diygod/rsshub:chromium-bundled
 #--platform=linux/arm64 ghcr.io/home-assistant/home-assistant:stable
---platform=linux/arm64 clash-dashboard-pro
+#--platform=linux/arm64 clash-dashboard-pro
+gofrp/agent
